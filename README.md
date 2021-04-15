@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nejishow
 - 👀 I’m interested in Web Development, Javascript and its frameworks(Angular, Vue.js, Node.js), Java, SpringBoot 
-- 🌱 I’m currently learning CI/CD, Docker and AWS
 - 💞️ I’m looking to collaborate on any project regarding these topics.
 - 📫 How to reach me ashrafmohamedaa253@gmail.com
 
